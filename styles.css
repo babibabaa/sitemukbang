@@ -1,15 +1,15 @@
 header {
     background-color: #131212;
     text-align: center;
-    height: 200px;
-    margin: 15px 0px;
+    height: 250px;
 }
 
 h1 {
     color: #ffffff;
     font-family: "Podkova";
     font-weight: lighter;
-    font-size: 60px;
+    font-size: 55px;
+    padding-top: 15px;
 }
 
 h2 {
@@ -31,9 +31,8 @@ h3 {
 .emcimadoheader {
     
     background-color: #d9d9d9;
-    height: 21px;
+    height: 15px;
     
-
 }
 
 
