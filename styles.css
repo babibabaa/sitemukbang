@@ -29,13 +29,15 @@ h4 {
 
 
 .categorias { 
-    width: 25%;
-
+    width: 20%;
+    display: inline-block;
+    margin-top: 20px;
+    background: #D9D9D9;
 }
 
+
 .explicacao { 
-    text-align: center;
-        
+    text-align: center;        
 }
 
 .emcimadoheader {
