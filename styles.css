@@ -6,7 +6,7 @@ header {
 
 h1 {
     color: #ffffff;
-    font-family: "Podkova";
+    font-family: "Podkova", "sans-serif";
     font-weight: lighter;
     font-size: 55px;
     padding-top: 15px;
@@ -22,6 +22,16 @@ h3 {
     font-size: 30px;
 }
 
+h4 {
+    font-size: 38px;
+    font-family:"Domine","sans-serif"
+}
+
+
+.categorias { 
+    width: 25%;
+
+}
 
 .explicacao { 
     text-align: center;
