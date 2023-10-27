@@ -72,6 +72,10 @@ h4 {
 .título1{
     font-family: "Podvoka", sans-serif;
 }
+
+p3{
+    display:block;
+}
 .emcimadoheader {
     background-color: #d9d9d9;
     height: 15px;
